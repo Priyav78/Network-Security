@@ -1,6 +1,5 @@
 
-# 🛡️ Network Security Project: Multivariate & Machine Learning Analysis of Cyberattacks
-
+# 🛡️ Network Security Project: Intrusion Detection System
 This project performs a complete machine learning and multivariate statistical analysis pipeline on three cybersecurity datasets. It includes preprocessing, bivariate and multivariate analysis, dimensionality reduction (PCA), and modeling using supervised and unsupervised techniques to detect and classify cyber threats.
 
 ---
