@@ -1,16 +1,16 @@
 
-# 🛡️ Network Security Project: Intrusion Detection System
+# Network Security Project: Intrusion Detection System
 This project performs a complete machine learning and multivariate statistical analysis pipeline on three cybersecurity datasets. It includes preprocessing, bivariate and multivariate analysis, dimensionality reduction (PCA), and modeling using supervised and unsupervised techniques to detect and classify cyber threats.
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 To explore, analyze, and model cyberattack behavior using different types of network datasets for the purpose of detecting anomalies, assessing threat severity, and building an effective intrusion detection system (IDS).
 
 ---
 
-## 📁 Datasets Overview
+## Datasets Overview
 
 | Dataset       | Purpose                                             | Target Variable | Primary Goal |
 |---------------|-----------------------------------------------------|------------------|--------------|
@@ -20,7 +20,7 @@ To explore, analyze, and model cyberattack behavior using different types of net
 
 ---
 
-## 🔄 Workflow
+## Workflow
 
 ### 1. Preprocessing
 - Handled missing values with `SimpleImputer`
@@ -46,7 +46,7 @@ To explore, analyze, and model cyberattack behavior using different types of net
 
 ---
 
-## 🤖 Modeling Results
+## Modeling Results
 
 | Dataset      | Model               | Type        | Use Case                                                    | Test Accuracy | Model Ranking |
 |--------------|---------------------|-------------|--------------------------------------------------------------|----------------|----------------|
@@ -62,7 +62,7 @@ To explore, analyze, and model cyberattack behavior using different types of net
 
 ---
 
-## 📊 Visual Insights
+## Visual Insights
 
 - Bubble plots showed attack types like Generic, Exploits, and DoS were service-specific
 - PCA visualizations showed that a small set of components captured most of the variance in BETH and NS
@@ -70,7 +70,7 @@ To explore, analyze, and model cyberattack behavior using different types of net
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 - Data cleaning and preprocessing
 - Statistical bivariate testing
@@ -81,7 +81,7 @@ To explore, analyze, and model cyberattack behavior using different types of net
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 pip install -r requirements.txt
@@ -91,7 +91,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 ```
 pandas
@@ -105,7 +105,7 @@ xgboost
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Priya Verma** — M.S. Data Science Candidate  
 This project was completed as part of a cybersecurity-focused machine learning research initiative.
